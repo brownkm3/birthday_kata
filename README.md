@@ -1,20 +1,5 @@
-# Ultra-simple ruby starter project for katas etc
+# Tests and code for simple co-ordinator class only 
 
-## Instructions
+Done in coding dojo 18/2/2015
 
-* Clone the project or [download as a zip archive](https://github.com/kerryb/ruby-kata-skeleton/archive/master.zip) and extract
-* Rename the project directory as appropriate
-* Install bundler if necessary:
 
-        gem install bundler
-
-* From the project directory, run bundler:
-
-        bundle
-
-* Check everything works:
-
-        rspec
-
-* Delete or rename the example spec and class
-* Go!
